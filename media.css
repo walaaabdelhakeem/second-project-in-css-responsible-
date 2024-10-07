@@ -1,0 +1,167 @@
+@media screen and (max-width: 768px) {
+  .section-of-hello {
+    width: 90%;
+  }
+  .hup-df-image {
+    border: 0px;
+    width: 50%;
+  }
+  .contianer2 {
+    width: 90%;
+  }
+  .imageindiv {
+    top: 0px;
+    left: 0px;
+  }
+  .right-div {
+    width: 50%;
+  }
+  .section-our-services .contianer2 .icard-of-services {
+    width: 50%;
+  }
+  .contianer2 .table div {
+    width: 50%;
+  }
+  .card-of-feedback {
+    width: 90%;
+  }
+  .cards-links
+  {
+       width: 95%;
+       margin: auto;
+  }
+  .cards-links .link-card
+{
+
+    margin-left: 20px; 
+}
+.cont-vidoe 
+{
+    
+    height:8em;
+}
+.contianer-form
+{
+    width: 90%;
+    
+}
+.cards-links .link-card .helf-card-img
+{font-size: 15px;
+padding-left:10px ;}
+.cards-links .link-card .helf-card-img h3
+{
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+.link-card .helf-card-img h6
+{
+    font-size: 15px;
+    margin: 10px 0;
+}
+
+}
+@media screen and (max-width: 576px) {
+  .nav {
+    background-color: #333333;
+    width: 90%;
+    margin: auto;
+  }
+  .contianer a {
+    float: none;
+  }
+  .contianer ol {
+    text-align: center;
+    float: none;
+  }
+  .contianer ol li {
+    float: none;
+    padding: 10px 0;
+  }
+  body {
+    padding: 0;
+  }
+  .contianer2 {
+    width: 90%;
+  }
+  .section-our-services .contianer2 .icard-of-services {
+    float: none;
+    width: 100%;
+  }
+  .textsec {
+    font-size: 10px;
+    padding-top: 50px;
+  }
+  .prg,
+  .textsec h1 {
+    font-weight: 300;
+    font-size: 15px;
+  }
+  .section-of-hello {
+    width: 90%;
+  }
+  .hup-df-image {
+    float: none;
+    border: 0px;
+    width: 100%;
+  }
+  .imageindiv {
+    top: 0px;
+    left: 0px;
+  }
+  .right-div {
+    float: none;
+    width: 100%;
+  }
+  .info-in-hello-section .info .info1 {
+    float: none;
+    width: 100%;
+    margin-bottom: 0px;
+  }
+  .info-in-hello-section .info .info2 {
+    float: none;
+    width: 100%;
+  }
+  .info-in-hello-section button {
+    padding: 10px 3px;
+  }
+  .contianer2 .table div {
+    float: none;
+    width: 100%;
+  }
+  .counter {
+    float: none;
+    width: 100%;
+  }
+  .card-of-feedback {
+    width: 90%;
+  }
+  .arw-image {
+    width: 15%;
+  }
+  .Alex-feedback {
+    padding: 0 15px;
+    line-height: 23px;
+    width: 100%;
+  }
+  .Alex-feedback p {
+    font-size: 16px;
+  }
+  .Alex-feedback .stars i {
+    margin: 20px 0 10px 0;
+  }
+  .cards-links .link-card
+  {
+      float: none;
+      width: 100%;
+      margin-left: 0%;
+  }
+  .contianer-form
+{
+    width: 80%;
+}.input2 span input
+
+{
+    width: 100%;
+    margin: 20px 0;
+}
+}
