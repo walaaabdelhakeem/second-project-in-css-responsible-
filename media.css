@@ -25,40 +25,31 @@
   .card-of-feedback {
     width: 90%;
   }
-  .cards-links
-  {
-       width: 95%;
-       margin: auto;
+  .cards-links {
+    width: 95%;
+    margin: auto;
   }
-  .cards-links .link-card
-{
-
-    margin-left: 20px; 
-}
-.cont-vidoe 
-{
-    
-    height:8em;
-}
-.contianer-form
-{
+  .cards-links .link-card {
+    margin-left: 20px;
+  }
+  .cont-vidoe {
+    height: 8em;
+  }
+  .contianer-form {
     width: 90%;
-    
-}
-.cards-links .link-card .helf-card-img
-{font-size: 15px;
-padding-left:10px ;}
-.cards-links .link-card .helf-card-img h3
-{
+  }
+  .cards-links .link-card .helf-card-img {
+    font-size: 15px;
+    padding-left: 10px;
+  }
+  .cards-links .link-card .helf-card-img h3 {
     font-size: 15px;
     margin-bottom: 10px;
-}
-.link-card .helf-card-img h6
-{
+  }
+  .link-card .helf-card-img h6 {
     font-size: 15px;
     margin: 10px 0;
-}
-
+  }
 }
 @media screen and (max-width: 576px) {
   .nav {
@@ -149,19 +140,16 @@ padding-left:10px ;}
   .Alex-feedback .stars i {
     margin: 20px 0 10px 0;
   }
-  .cards-links .link-card
-  {
-      float: none;
-      width: 100%;
-      margin-left: 0%;
+  .cards-links .link-card {
+    float: none;
+    width: 100%;
+    margin-left: 0%;
   }
-  .contianer-form
-{
+  .contianer-form {
     width: 80%;
-}.input2 span input
-
-{
+  }
+  .input2 span input {
     width: 100%;
     margin: 20px 0;
-}
+  }
 }
